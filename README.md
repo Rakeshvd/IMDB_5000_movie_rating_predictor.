@@ -25,7 +25,7 @@ Feature used are:
 20. num_voted_users
 21. GENRES
 
-I have used Catboost(Categoricl boosting) to biuld model.
+I have used Catboost(Categorical boosting) to biuld model.
 
 This is a very useful package ,it is mainly used to handle categorical variables automatically.
 
